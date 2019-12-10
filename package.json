@@ -1,0 +1,15 @@
+{
+  "name": "reducnft",
+  "version": "1.0.0",
+  "description": "première tentative de blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hhoareau",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/f80dev/repository.git"
+  }
+}
